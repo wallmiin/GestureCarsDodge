@@ -1,0 +1,4 @@
+mediapipe==0.10.11
+numpy>=1.21
+pygame~=2.0.1
+pynput~=1.7.3
