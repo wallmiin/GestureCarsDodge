@@ -7,11 +7,11 @@ Game né xe điều khiển bằng tay qua webcam.
 git clone https://github.com/wallmin/GestureCarDodge.git
 cd GestureCarDodge
 
-2. Tạo môi trường ảo:
+3. Tạo môi trường ảo:
 python -m venv venv
 .\venv\Scripts\activate  # Windows
 
-3. Cài thư viện:
+4. Cài thư viện:
 pip install -r requirements.txt
 
 File `requirements.txt`:
